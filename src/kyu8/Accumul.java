@@ -1,4 +1,4 @@
-package Mumbling;
+package kyu8;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 
